@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: >-
+  Please cite the associated peer-reviewed paper when referring to this
+  repository.
+title: "BRATS_OVTPS repository metadata"
+authors:
+  - family-names: Mojtahedi
+    given-names: Ramtin
+    orcid: "https://orcid.org/0000-0002-3953-3256"
+abstract: >-
+  Repository landing page associated with the paper "Multi-modal Brain Tumour
+  Segmentation Using Transformer with Optimal Patch Size." No source code,
+  executable notebooks, model weights, or research data are currently included.
+keywords:
+  - medical image segmentation
+  - brain tumour
+  - vision transformer
+  - patch size
+preferred-citation:
+  type: conference-paper
+  title: "Multi-modal Brain Tumour Segmentation Using Transformer with Optimal Patch Size"
+  authors:
+    - family-names: Mojtahedi
+      given-names: Ramtin
+      orcid: "https://orcid.org/0000-0002-3953-3256"
+    - family-names: Hamghalam
+      given-names: Mohammad
+    - family-names: Simpson
+      given-names: "Amber L."
+  collection-title: "Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries"
+  publisher:
+    name: "Springer Nature Switzerland"
+  year: 2023
+  volume: 13769
+  start: 195
+  end: 204
+  doi: "10.1007/978-3-031-33842-7_17"
+  url: "https://doi.org/10.1007/978-3-031-33842-7_17"
