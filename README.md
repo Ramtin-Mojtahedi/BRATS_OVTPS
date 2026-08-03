@@ -2,6 +2,24 @@
 
 This repository is intended to accompany the peer-reviewed BrainLes 2022 paper on optimal vision-transformer patch size for multi-modal brain-tumour segmentation.
 
+<!-- repository-guide:start -->
+## At a glance
+
+[Peer-reviewed paper](https://doi.org/10.1007/978-3-031-33842-7_17) · [`CITATION.cff`](CITATION.cff)
+
+### Package evidence
+
+| Evidence source | Finding |
+|---|---|
+| Dependency manifests | None present |
+| Source-code imports | None; no implementation is committed |
+| Research data | BraTS 2021 data are not distributed here |
+
+### Reproducibility boundary
+
+This repository currently records publication and release-status metadata only. It has no executable preprocessing, model, training, inference, or evaluation artifacts; therefore, adding a software pipeline diagram would imply functionality that is not present. Use 2023 for the formal proceedings citation while retaining the BrainLes 2022 event context.
+<!-- repository-guide:end -->
+
 ## Repository status
 
 No implementation is included at present. This repository currently provides bibliographic and release-status information only; it does **not** contain source code, notebooks, model definitions, trained weights, preprocessing scripts, experiment configurations, software-environment files, split definitions, or research data. The paper’s results cannot be reproduced from this repository alone.
