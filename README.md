@@ -1,3 +1,11 @@
+<picture>
+  <img width="100%" src="https://raw.githubusercontent.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/main/assets/cover-publications.png" alt="Publication companion: Brain-tumour segmentation cover.">
+</picture>
+
+**Publication companion · Brain-tumour segmentation**
+
+[Profile](https://github.com/Ramtin-Mojtahedi) · [Project directory](https://github.com/Ramtin-Mojtahedi/Ramtin-Mojtahedi/blob/main/REPOSITORY_INDEX.md)
+
 # Multi-modal Brain Tumour Segmentation Using Transformer with Optimal Patch Size
 
 This repository is intended to accompany the peer-reviewed BrainLes 2022 paper on optimal vision-transformer patch size for multi-modal brain-tumour segmentation.
